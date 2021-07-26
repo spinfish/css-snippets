@@ -1,0 +1,51 @@
+/**
+ * Copyright (c) 2021 - present spinfish
+ * Licensed under MIT
+ */
+
+/** Much of the following code is heavily based upon code
+ * present in the RadialStatus repository by DiscordStyles
+ * provided under the MIT License
+ * 
+ * https://github.com/DiscordStyles/RadialStatus/blob/master/src/RadialStatus.theme.scss#L49-L60
+ * https://github.com/DiscordStyles/RadialStatus/blob/master/src/RadialStatus.theme.scss#L65-L70
+ * 
+ * Copyright (c) 2020 DiscordStyles
+ */
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k {
+  overflow: visible;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle {
+  cy: -7.5;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(1) {
+  cx: -8.5;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(2) {
+  cx: -2.25;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(3) {
+  cx: 4;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] foreignObject[mask*="typing"] {
+  mask: none;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] foreignObject[mask*="typing"] .avatar-VxgULZ {
+  border-radius: 50%;
+}
+
+.wrapper-3t9DeA[data-bsi-radial-status="true"] .pointerEvents-2zdfdO[mask="url(#svg-mask-status-typing)"] {
+  x: 1;
+  y: 1;
+  width: 30px;
+  height: 30px;
+  fill: rgba(0, 0, 0, 0.75);
+  clip-path: circle();
+}

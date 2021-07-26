@@ -1,0 +1,30 @@
+/**
+ * Copyright (c) 2021 - present spinfish
+ * Licensed under MIT
+ */
+
+/** Originally by Tropical */
+
+.connectedAccount-2Jb-Z0 {
+  flex-wrap: wrap;
+}
+
+.connectedAccount-2Jb-Z0 .connectedAccountIcon-3_EQqg {
+  width: 24px;
+  height: 24px;
+}
+
+.connectedAccount-2Jb-Z0 .anchor-3Z-8Bb {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: normal;
+}
+
+.connectedAccount-2Jb-Z0 .anchor-3Z-8Bb::after {
+  content: attr(href);
+  white-space: nowrap;
+}
+
+.connectedAccount-2Jb-Z0 .connectedAccountOpenIcon-E5wGF4 {
+  display: none;
+}
