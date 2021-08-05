@@ -1,0 +1,12 @@
+/**
+ * Copyright (c) 2021 - present spinfish
+ * Licensed under MIT
+ */
+
+.iconWrapper-2OrFZ1[aria-label="Pinned messages"] foreignObject {
+  mask: none;
+}
+
+.iconWrapper-2OrFZ1[aria-label="Pinned messages"] .iconBadge-qZ4Ksk {
+  display: none;
+}

@@ -13,6 +13,7 @@
 
 .role-2irmRk {
   border: none;
+  border-radius: 50px;
   position: relative;
   overflow: hidden;
   padding: 5px;
@@ -39,11 +40,15 @@
   cursor: pointer;
 }
 
-.role-2irmRk[aria-label^="Remove"]:hover .roleCircle-3xAZ1j {
+.role-2irmRk[aria-label^="Remove"]:hover > .roleCircle-3xAZ1j {
   background-color: red !important;
 }
 
-.role-2irmRk .roleCircle-3xAZ1j::after {
+.role-2irmRk > .roleCircle-3xAZ1j {
+  margin-left: 0;
+}
+
+.role-2irmRk > .roleCircle-3xAZ1j::after {
   content: "";
   position: absolute;
   background-color: inherit;
