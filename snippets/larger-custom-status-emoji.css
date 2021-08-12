@@ -1,0 +1,26 @@
+/**
+ * Copyright (c) 2021 - present spinfish
+ * Licensed under MIT
+ */
+
+:root {
+  /* Change this if you want */
+  --custom-emoji-size: 95px;
+}
+
+.customStatus-oN4ZZY {
+  display: flex;
+  align-items: center;
+}
+
+.customStatus-oN4ZZY > .emoji {
+  margin: 2px;
+  width: var(--custom-emoji-size, 95px);
+  height: var(--custom-emoji-size, 95px);
+}
+
+.customStatus-oN4ZZY > .emoji + .customStatusText-1vtUsN {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+:root {
+  /**
+    * block = reaction text on new line
+    * flex = reaction text on same line
+    */
+  --reaction-content-display: block;
+}
+
+.reactionTooltipEmoji-3LG0v8 {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 9px;
+}
+
+.reactionTooltipContent-2TwEIL {
+  text-align: center;
+  display: var(--reaction-content-display);
+}
