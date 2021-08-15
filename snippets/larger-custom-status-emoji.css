@@ -5,22 +5,46 @@
 
 :root {
   /* Change this if you want */
-  --custom-emoji-size: 95px;
+  --status-emoji-size: 95px;
 }
 
+/** Profiles */
+.customStatus-1COQYu {
+  display: flex;
+  align-items: center;
+}
+
+.customStatus-1COQYu > .customStatusEmoji-1xY2Yn {
+  padding: 17.5px 0 0 5px;
+  width: var(--status-emoji-size, 95px);
+  height: var(--status-emoji-size, 95px);
+}
+
+.customStatus-1COQYu > span {
+  margin: auto;
+  text-align: center;
+  overflow-wrap: anywhere;
+  padding: 10px 17.5px 10px 10px;
+}
+
+/** Popouts */
 .customStatus-oN4ZZY {
   display: flex;
   align-items: center;
 }
 
-.customStatus-oN4ZZY > .emoji {
-  margin: 2px;
-  width: var(--custom-emoji-size, 95px);
-  height: var(--custom-emoji-size, 95px);
+.customStatus-oN4ZZY > .emoji.customStatusEmoji-3a2-Zo {
+  width: var(--status-emoji-size, 95px);
+  height: var(--status-emoji-size, 95px);
 }
 
-.customStatus-oN4ZZY > .emoji + .customStatusText-1vtUsN {
+.customStatus-oN4ZZY > .customStatusEmoji-3a2-Zo:not(.customStatusSoloEmoji-1tDhmL) {
+  margin: 2px;
+}
+
+.customStatus-oN4ZZY > .customStatusText-1vtUsN {
   margin: auto;
   padding: 10px;
   text-align: center;
+  overflow-wrap: anywhere;
 }
