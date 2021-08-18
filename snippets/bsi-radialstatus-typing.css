@@ -43,10 +43,10 @@
 }
 
 .wrapper-3t9DeA[data-bsi-radial-status="true"] .pointerEvents-2zdfdO[mask="url(#svg-mask-status-typing)"] {
-  x: 1;
-  y: 1;
-  width: 30px;
-  height: 30px;
-  fill: rgba(0, 0, 0, 0.75);
+  x: 2.8;
+  y: 2.6;
+  width: 26.5px;
+  height: 26.5px;
+  fill: rgba(0, 0, 0, 0.75) !important;
   clip-path: circle();
 }
