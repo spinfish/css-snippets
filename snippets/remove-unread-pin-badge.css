@@ -3,10 +3,10 @@
  * Licensed under MIT
  */
 
-.iconWrapper-2OrFZ1[aria-label="Pinned messages"] foreignObject {
+foreignObject[mask="url(#svg-mask-header-bar-badge)"] {
   mask: none;
 }
 
-.iconWrapper-2OrFZ1[aria-label="Pinned messages"] .iconBadge-qZ4Ksk {
+.iconWrapper-2OrFZ1 .iconBadge-qZ4Ksk {
   display: none;
 }

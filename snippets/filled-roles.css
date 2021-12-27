@@ -29,7 +29,7 @@
   position: absolute;
 }
 
-.role-2irmRk:hover .roleRemoveIcon-2-TeGW > path {
+.roleRemoveIcon-2-TeGW > path {
   fill: none;
 }
 
@@ -58,4 +58,8 @@
   height: 100%;
   left: 0;
   opacity: 0.25;
+}
+
+.role-2irmRk > .addButtonIcon-1NMJ8u {
+  color: var(--header-secondary);
 }

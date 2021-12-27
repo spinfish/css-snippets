@@ -5,20 +5,24 @@
 
 :root {
   /**
-   * block = reaction text on new line
-   * flex = reaction text on same line
+   * column = reaction text on new line
+   * row = reaction text on same line
    */
-  --reaction-content-display: block;
+  --reaction-box-direction: column;
   --reaction-emoji-size: 100px;
 }
 
-.reactionTooltipEmoji-3LG0v8 {
-  width: 100%;
-  height: var(--reaction-emoji-size);
-  margin-bottom: 9px;
+.reactionTooltipContent-2TwEIL {
+  flex-direction: var(--reaction-box-direction);
+  padding-top: 0;
+  text-align: center;
 }
 
-.reactionTooltipContent-2TwEIL {
-  text-align: center;
-  display: var(--reaction-content-display);
+.reactionTooltipContent-2TwEIL > .reactionTooltipEmoji-3LG0v8 {
+  width: 100%;
+  height: var(--reaction-emoji-size);
+}
+
+.reactionTooltipContent-2TwEIL > .reactionTooltipText-u4NWre {
+  margin-top: 11px;
 }
