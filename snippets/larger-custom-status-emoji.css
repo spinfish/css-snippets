@@ -9,18 +9,18 @@
 }
 
 /** Profiles */
-.customStatus-1COQYu {
+.customStatus-kFfkj5 {
   display: flex;
   align-items: center;
 }
 
-.customStatus-1COQYu > .emoji.customStatusEmoji-1xY2Yn {
+.customStatus-kFfkj5 > .emoji.customStatusEmoji-3Oq9Rm {
   padding: 17.5px 0 0 5px;
   width: var(--status-emoji-size, 95px);
   height: var(--status-emoji-size, 95px);
 }
 
-.customStatus-1COQYu > span:nth-child(2) {
+.customStatus-kFfkj5 > span:nth-child(2) {
   margin: auto;
   text-align: center;
   overflow-wrap: anywhere;
@@ -28,21 +28,21 @@
 }
 
 /** Popouts */
-.customStatus-oN4ZZY {
+.customStatus-3XAoF9 {
   display: flex;
   align-items: center;
 }
 
-.customStatus-oN4ZZY > .emoji.customStatusEmoji-3a2-Zo {
+.customStatus-3XAoF9 > .emoji.customStatusEmoji-1bFQdD {
   width: var(--status-emoji-size, 95px);
   height: var(--status-emoji-size, 95px);
 }
 
-.customStatus-oN4ZZY > .customStatusEmoji-3a2-Zo:not(:only-child) {
+.customStatus-3XAoF9 > .customStatusEmoji-1bFQdD:not(:only-child) {
   margin: 2px;
 }
 
-.customStatus-oN4ZZY > .customStatusText-1vtUsN:nth-child(2) {
+.customStatus-3XAoF9 > .customStatusText-3wj79x:nth-child(2) {
   margin: auto;
   padding: 10px;
   text-align: center;

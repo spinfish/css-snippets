@@ -14,35 +14,35 @@
  * Copyright (c) 2020 DiscordStyles
  */
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .dots-1BwzZQ {
   overflow: visible;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .dots-1BwzZQ circle {
   cy: -7.5;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(1) {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .dots-1BwzZQ circle:nth-child(1) {
   cx: -8.5;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(2) {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .dots-1BwzZQ circle:nth-child(2) {
   cx: -2.25;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .dots-3Bkt3k circle:nth-child(3) {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .dots-1BwzZQ circle:nth-child(3) {
   cx: 4;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] foreignObject[mask*="typing"] {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] foreignObject[mask*="typing"] {
   mask: none;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] foreignObject[mask*="typing"] .avatar-VxgULZ {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] foreignObject[mask*="typing"] .avatar-b5OQ1N {
   border-radius: 50%;
 }
 
-.wrapper-3t9DeA[data-bsi-radial-status="true"] .pointerEvents-2zdfdO[mask="url(#svg-mask-status-typing)"] {
+.wrapper-1VLyxH[data-bsi-radial-status="true"] .pointerEvents-9SZWKj[mask="url(#svg-mask-status-typing)"] {
   x: 2.8;
   y: 2.6;
   width: 26.5px;

@@ -12,7 +12,7 @@
  * Copright (C) 2021 LuckFire
  */
 
-.role-2irmRk {
+.role-2TIOKu {
   border: none;
   border-radius: 50px;
   position: relative;
@@ -21,7 +21,7 @@
   z-index: 0;
 }
 
-.role-2irmRk:hover .roleRemoveIcon-2-TeGW {
+.role-2TIOKu:hover .roleRemoveIcon-387wKV {
   top: 0;
   left: 0;
   width: 100%;
@@ -29,27 +29,27 @@
   position: absolute;
 }
 
-.roleRemoveIcon-2-TeGW > path {
+.roleRemoveIcon-387wKV > path {
   fill: none;
 }
 
-.role-2irmRk.addButton-pcyyf6 {
+.role-2TIOKu.addButton-1_dZYu {
   background-color: rgba(125, 125, 125, 0.25);
 }
 
-.role-2irmRk[aria-label^="Remove"] {
+.role-2TIOKu[aria-label^="Remove"] {
   cursor: pointer;
 }
 
-.role-2irmRk[aria-label^="Remove"]:hover > .roleCircle-3xAZ1j {
+.role-2TIOKu[aria-label^="Remove"]:hover > .roleCircle-1EgnFN {
   background-color: red !important;
 }
 
-.role-2irmRk > .roleCircle-3xAZ1j {
+.role-2TIOKu > .roleCircle-1EgnFN {
   margin-left: 0;
 }
 
-.role-2irmRk > .roleCircle-3xAZ1j::after {
+.role-2TIOKu > .roleCircle-1EgnFN::after {
   content: "";
   position: absolute;
   background-color: inherit;
@@ -60,6 +60,6 @@
   opacity: 0.25;
 }
 
-.role-2irmRk > .addButtonIcon-1NMJ8u {
+.role-2TIOKu > .addButtonIcon-3HZ_2f {
   color: var(--header-secondary);
 }

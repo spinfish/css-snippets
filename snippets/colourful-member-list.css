@@ -3,7 +3,7 @@
  * Licensed under MIT
  */
 
-.roleColor-rz2vM0::after {
+.roleColor-nA7BqX::after {
   content: "";
   top: 0;
   left: 0;
@@ -14,18 +14,18 @@
   background: currentColor;
 }
 
-.member-3-YXUe .badges {
+.member-2gU6Ar .badges {
   z-index: 1;
 }
 
-.member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0::after {
+.member-2gU6Ar.selected-1-Z6gm .roleColor-nA7BqX::after {
   border-radius: 4px;
 }
 
-.membersGroup-v9BXpm + .member-3-YXUe {
+.membersGroup-2eiWxl + .member-2gU6Ar {
   margin-top: 5px;
 }
 
-.membersGroup-v9BXpm + .member-3-YXUe .roleColor-rz2vM0::after {
+.membersGroup-2eiWxl + .member-2gU6Ar .roleColor-nA7BqX::after {
   border-radius: 5px 5px 0 0;
 }

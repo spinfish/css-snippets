@@ -1,0 +1,101 @@
+/**
+ * Copyright (c) 2022 - present spinfish
+ * Licensed under MIT
+ */
+
+.focusLock-2tveLW[aria-label="User profile modal" i],
+.focusLock-2tveLW[aria-label="User profile modal" i] > .root-g14mjS {
+  width: 450px;
+}
+
+.profileBannerPremium-KD60EB {
+  transform: scale(0.8);
+  right: 75px;
+  top: -25px;
+}
+
+.profileBannerPremium-KD60EB > .gifTag-3_dPxY {
+  right: 30px;
+}
+
+.profileBannerPremium-KD60EB + .header-S26rhB {
+  --top-amount: -25px;
+}
+
+.profileBanner-1owKI5 {
+  height: 90px;
+}
+
+.root-g14mjS .pencilContainer-18TrEJ {
+  right: 165px;
+}
+
+.connectedAccounts-1YaT2t {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(6, minmax(0, 51px));
+  margin-top: 0;
+}
+
+.connectedAccount-1xKpli {
+  width: 25px;
+  margin: unset;
+}
+
+.connectedAccount-1xKpli > .anchorUnderlineOnHover-2qPutX {
+  transform: translateX(-30px);
+  opacity: 0;
+}
+
+.connectedAccountOpenIcon-1yfBsb {
+  width: 30px;
+  height: auto;
+}
+
+.connectedAccountNameInner-t24B11 {
+  display: none;
+}
+
+.headerTop-1PNKck {
+  top: var(--top-amount, 16px);
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.user-details-modal {
+  margin-top: 5px;
+}
+
+.badgeList-2aoHPw {
+  margin-right: 0;
+  padding-right: 0;
+  margin-bottom: 7px;
+  justify-content: center;
+}
+
+.relationshipButtons-3ByBpj {
+  --additionalbutton-bg: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);
+  margin-bottom: 5px;
+}
+
+.relationshipButtons-3ByBpj > :last-child:hover {
+  --additionalbutton-bg: hsl(139, calc(var(--saturation-factor, 1) * 47.1%), 33.3%);
+}
+
+.relationshipButtons-3ByBpj > :last-child:active {
+  --additionalbutton-bg: hsl(138, calc(var(--saturation-factor, 1) * 47%), 25.9%);
+}
+
+.applicationInstallButton-1-58qm {
+  margin-right: 5.5px;
+}
+
+.additionalActionsIcon-3Cy8UU {
+  height: 32px;
+  border-radius: 3px;
+  color: white !important;
+  margin-left: 5px;
+  background: var(--additionalbutton-bg);
+  transition: 0.17s ease;
+  transition-property: background-color, color;
+}

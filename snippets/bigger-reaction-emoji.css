@@ -12,16 +12,16 @@
   --reaction-emoji-size: 100px;
 }
 
-.reactionTooltipContent-2TwEIL {
+.reactionTooltipInner-2eNtr9 {
   flex-direction: var(--reaction-box-direction);
   text-align: center;
 }
 
-.reactionTooltipContent-2TwEIL > .reactionTooltipEmoji-3LG0v8 {
+.reactionTooltipInner-2eNtr9 > .emoji {
   width: 100%;
   height: var(--reaction-emoji-size);
 }
 
-.reactionTooltipContent-2TwEIL > .reactionTooltipText-u4NWre {
+.reactionTooltipInner-2eNtr9 > .reactionTooltipText-2M3J-B {
   margin-top: 11px;
 }
